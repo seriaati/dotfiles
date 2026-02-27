@@ -20,4 +20,4 @@ Seria's dotfiles!
 
 ## WezTerm
 
-<img width="1939" height="1202" alt="image" src="https://github.com/user-attachments/assets/d5ab1f3d-d5cb-4f7d-991f-b98379295ff1" />
+<img width="1930" height="1069" alt="image" src="https://github.com/user-attachments/assets/b3f7d36a-9d62-4805-b9ac-e649affa52fa" />

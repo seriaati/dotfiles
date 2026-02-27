@@ -3,7 +3,7 @@ local config = wezterm.config_builder()
 
 config.background = {
     {
-        source = { File = '/home/seria/.config/wezterm/background.jpg' },
+        source = { File = '~/.config/wezterm/background.jpg' },
         opacity = 1.0,
         hsb = { brightness = 0.06,  saturation = 1.0},
     }

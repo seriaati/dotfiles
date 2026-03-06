@@ -5,7 +5,6 @@ function fish_should_add_to_history
     return 0
 end
 if status is-interactive
-    bind \b backward-kill-word
     # Commands to run in interactive sessions can go here
 end
 
